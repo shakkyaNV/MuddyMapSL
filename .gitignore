@@ -1,0 +1,10 @@
+# ignoring data files
+*.xlsx
+*.csv
+*.zip
+*.sp
+
+# ignoring all R proj file
+*.Rproj
+/.Rproj.user
+

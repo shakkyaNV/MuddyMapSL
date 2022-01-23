@@ -35,3 +35,6 @@ ggplot(df) +
 # 1. Muddy Map US election
 # 2. Use of bivariate color scale - reddit: https://www.reddit.com/r/dataisbeautiful/comments/s1axlz/oc_2_years_into_the_pandemic_a_map_of_the/hs71380/
 # 3. User of bivariate color paletters in R: https://www.r-bloggers.com/2020/08/how-to-choose-a-bivariate-color-palette/
+
+
+# Find more resouces

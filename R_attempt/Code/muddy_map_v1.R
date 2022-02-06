@@ -44,7 +44,7 @@ ggplot(df) +
 library(colorblindcheck)
 library(pals)
 
-
+# check color blind availability in palettes
 
 # Create Color palette
 
